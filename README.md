@@ -37,8 +37,12 @@ Este é um aplicativo mobile desenvolvido em **React Native** com o objetivo de 
 
 ```bash
 # 1. Clone este repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+
+git clone https://github.com/challenge-mottu/MOBILE-APPLICATION-DEVELOPMENT
+
+cd MOBILE-APPLICATION-DEVELOPMENT
+
+cd mobile
 
 # 2. Instale as dependências
 npm install
